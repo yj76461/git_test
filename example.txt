@@ -1,3 +1,4 @@
 ss
 add branch!
 oh my goooooood!
+commit : write down your index status
