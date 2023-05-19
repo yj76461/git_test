@@ -1,6 +1,7 @@
 ss
 add branch!
 oh my goooooood!
+oooo
 commit : write your index status
-dddddd
+ddd
 pull : to bring thin
