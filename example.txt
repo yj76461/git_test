@@ -1,7 +1,3 @@
 ss
-add branch!
-oh my goooooood!
 oooo
-commit : write your index status
 ddd
-pull : to bring thin
