@@ -1,5 +1,5 @@
 ss
 add branch!
 oh my goooooood!
-commit : write down your index status
-pull : to bring things of remote repository
+commit : write your index status
+pull : to bring thin
